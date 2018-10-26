@@ -1,0 +1,7 @@
+# Binaries
+sol
+gen_in
+data/
+
+# Metafile
+.DS_Store
