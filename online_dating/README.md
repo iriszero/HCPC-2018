@@ -1,4 +1,4 @@
-# Budget Traveler
+# Online Dating
 ## Requirements
 [texlive-full](https://www.tug.org/texlive/)
 [pandoc](https://pandoc.org/)
@@ -16,4 +16,4 @@ $ make clean && make
 Any contribution is welcome. Feel free to make pull requests.
 
 ## Acknowledgement
-The sample problem, "Budget Traveler", was the one of HYU-ALOHA 2018 Winter Camp Competition.
+This directory contains a problem for HCPC 2018.
