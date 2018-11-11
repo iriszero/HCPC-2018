@@ -32,12 +32,12 @@ string getRandomString(int length) {
 	}
 	return res;
 }
-void generate(string filename, int N) {
+void generate(string filename, int N, int string_length) {
 	FILE *fp = fopen(filename.c_str(), "w+");
 
 
   for (int i=0; i<N; i++) {
-    string name = getRandomString(2);
+    string name = getRandomString(string_length);
     fprintf(fp, "%s\n", name.c_str());
   }
 
@@ -62,7 +62,7 @@ int main(int argc, const char* argv[]) {
 		}
 		fclose(fp);		
     } else {
-		generate(filename, N_LIMIT);
+		generate(filename, N_LIMIT, i%9 + 2);
     }
   }
 }
