@@ -15,5 +15,5 @@ $ make clean && make
 ```
 
 ## Acknowledgement
-This directory contains two problems proposed by @iriszero for HCPC 2018.  
+This repository contains two problems proposed by [iriszero](https://github.com/iriszero) for HCPC 2018.  
 Judging was conduted on [Baekjoon online judge](https://acmicpc.net). The special judger is written as per the API of the site.
