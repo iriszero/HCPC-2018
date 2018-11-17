@@ -1,5 +1,5 @@
 # Cupid
-**Time Limit - 1.004 seconds, Memory Limit - 256MB**
+## Time Limit - 1.004 seconds, Memory Limit - 256MB
 
 Since 1969, the Internet has upended all kind of industries - retailing, politics, entertainment, etc. Among them may its most profound repercussion well be—on how we choose a mate.
 
