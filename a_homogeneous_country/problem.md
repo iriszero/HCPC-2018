@@ -1,6 +1,6 @@
 # A Homogeneous Country
 
-## Time Limit - 1 seconds, 256 MB
+## Time Limit - 1 second, 256 MB
 
 
 Many Westerners think Korea is a mere Eastern country which hangs like a grapefruit next to China. However, Koreans have kept their unique ethnicity, struggling all the time not to be "a shrimp among whales"; Chinese to the west, Japanese to the east, "barbarian" tribes, and expanding Russia to the north. Bruce Cumings argued that a vast majority of Koreans look through the lens of race, thinking they have some essential quality making them and only them real Koreans, tracing a unique, homogeneous bloodline back some five thousand years, a story called Tan-gun mythology; 'Koreans do this, Koreans do that' in a shorthand. After a fratricidal war, it was divided into North and South Korea, creating Demilitarized Zone. South Korea had no friend in the region and became a de facto island. During the Cold War, Communist countries supported its enemy, North Korea, and Japan was the last candidate because of their colonial history. Its extremely low ethnic diversity(158th out of 159 countries; North Korea ranked 159th) and cultural diversity(152nd)* is understandable given its experience of occupation and war.  
