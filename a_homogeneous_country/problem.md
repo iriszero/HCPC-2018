@@ -58,6 +58,3 @@ In the second case, $1 - 4 * (1 / 4)^2 = 0.75$.
 ** http://www.realmeter.net/%EC%A0%9C%EC%A3%BC-%EC%98%88%EB%A9%98-%EB%82%9C%EB%AF%BC-%EC%88%98%EC%9A%A9-%EB%B0%98%EB%8C%80-49-vs-%EC%B0%AC%EC%84%B1-39/
 *** http://news.chosun.com/site/data/html_dir/2018/09/03/2018090300158.html
 ```
-
-## Author
-Jaeseok Huh
